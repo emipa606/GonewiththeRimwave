@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- ================================== Blue Helmet ====================================-->
+  <ThingDef ParentName="ArmorHelmetMakeableBase">
+    <defName>Apparel_RimwaveBlueHelmet</defName>
+    <label>Blue army helmet</label>
+    <description>A combat helmet, a piece of personal armor designed specifically to protect the noggin' during combat. Worn by the Blue army.</description>
+    <techLevel>Industrial</techLevel>
+    <recipeMaker>
+      <unfinishedThingDef>UnfinishedMetallicTechArmor</unfinishedThingDef>
+    </recipeMaker>
+    <graphicData>
+      <texPath>Things/Apparel/BlueArmy_Clothes/RimwaveBlueHelmet</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+    </graphicData>
+    <statBases>
+      <WorkToMake>1200</WorkToMake>
+      <MaxHitPoints>120</MaxHitPoints>
+      <Mass>1.0</Mass>
+      <ArmorRating_Blunt>0.25</ArmorRating_Blunt>
+      <ArmorRating_Sharp>0.50</ArmorRating_Sharp>
+      <Insulation_Cold>2</Insulation_Cold>
+    </statBases>
+    <costList>
+      <ComponentIndustrial>3</ComponentIndustrial>
+      <Steel>50</Steel>
+    </costList>
+    <equippedStatOffsets>
+      <MoveSpeed>-0.02</MoveSpeed>
+      <PsychicSensitivity>-0.10</PsychicSensitivity>
+      <ToxicSensitivity>-0.85</ToxicSensitivity>
+      <MentalBreakThreshold>-0.01</MentalBreakThreshold>
+    </equippedStatOffsets>
+    <apparel>
+      <bodyPartGroups>
+        <li>FullHead</li>
+      </bodyPartGroups>
+      <wornGraphicPath>Things/Apparel/BlueArmy_Clothes/RimwaveBlueHelmet</wornGraphicPath>
+      <layers>
+        <li>Overhead</li>
+      </layers>
+      <tags>
+        <!--<li>Outlander</li>
+	    <li>Military</li>-->
+        <!-- I disabled these tags so NPCs wont spawn with this helmet, if you want them to spawn with it, delete the arrows that cause the coding to become notes. -->
+        <li>BlueArmy_Hat</li>
+      </tags>
+      <defaultOutfitTags>
+        <li>Soldier</li>
+      </defaultOutfitTags>
+    </apparel>
+  </ThingDef>
+</Defs>

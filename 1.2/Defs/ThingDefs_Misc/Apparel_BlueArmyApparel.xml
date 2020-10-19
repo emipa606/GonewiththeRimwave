@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- ===============Onskin============== -->
+  <!-- Blue outfit-->
+  <ThingDef ParentName="ApparelMakeableBase">
+    <defName>Apparel_RimwaveBlueCoat</defName>
+    <label>Blue army uniform</label>
+    <description>The Blue Army uniform consists of a trench coat, boots, helmet, gloves, and a gas mask with a hose connected to a tank on the lower back.The coat is zipped down to the belt and has Blue patches on the soldiers and wrists along with a Blue trim around the bottom near the feet.</description>
+    <graphicData>
+      <texPath>Things/Apparel/BlueArmy_Clothes/RimwaveBlueCoat</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+    </graphicData>
+    <recipeMaker>
+      <researchPrerequisite>ComplexClothing</researchPrerequisite>
+    </recipeMaker>
+    <costStuffCount>150</costStuffCount>
+    <stuffCategories>
+      <li>Fabric</li>
+    </stuffCategories>
+    <thingCategories>
+      <li>Apparel</li>
+    </thingCategories>
+    <statBases>
+      <WorkToMake>4000</WorkToMake>
+      <MaxHitPoints>200</MaxHitPoints>
+      <Mass>4</Mass>
+      <Flammability>0.6</Flammability>
+      <ArmorRating_Sharp>0.36</ArmorRating_Sharp>
+      <ArmorRating_Blunt>0.36</ArmorRating_Blunt>
+      <ArmorRating_Heat>0.27</ArmorRating_Heat>
+      <Insulation_Cold>1</Insulation_Cold>
+      <EquipDelay>5</EquipDelay>
+    </statBases>
+    <generateCommonality>0.3</generateCommonality>
+    <apparel>
+      <bodyPartGroups>
+        <li>Torso</li>
+        <li>Shoulders</li>
+        <li>Arms</li>
+        <li>Waist</li>
+        <li>Legs</li>
+      </bodyPartGroups>
+      <wornGraphicPath>Things/Apparel/BlueArmy_Clothes/RimwaveBlueCoat</wornGraphicPath>
+      <layers>
+        <li>OnSkin</li>
+      </layers>
+      <tags>
+        <!--<li>Outlander</li>
+		<li>Military</li>-->
+        <li>BlueArmy_Uniform</li>
+      </tags>
+    </apparel>
+    <colorGenerator Class="ColorGenerator_StandardApparel" />
+    <equippedStatOffsets>
+      <MoveSpeed>0.01</MoveSpeed>
+    </equippedStatOffsets>
+  </ThingDef>
+</Defs>

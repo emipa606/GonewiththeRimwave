@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <FactionDef ParentName="RW_HumanFactionBase" Name="RW_FactionBase_Yellowarmy" Abstract="True">
+    <pawnSingular>Yellow Soldier</pawnSingular>
+    <pawnsPlural>Yellow Soldiers</pawnsPlural>
+    <listOrderPriority>3</listOrderPriority>
+    <settlementGenerationWeight>0.75</settlementGenerationWeight>
+    <requiredCountAtGameStart>1</requiredCountAtGameStart>
+    <canMakeRandomly>true</canMakeRandomly>
+    <canSiege>true</canSiege>
+    <autoFlee>true</autoFlee>
+    <canStageAttacks>true</canStageAttacks>
+    <leaderTitle>General</leaderTitle>
+    <factionIconPath>World/YellowArmyLogo</factionIconPath>
+    <settlementTexturePath>World/WorldObjects/DefaultSettlement</settlementTexturePath>
+    <fixedName>The Yellow Army</fixedName>
+    <techLevel>Spacer</techLevel>
+    <settlementNameMaker>GWBFactionBase_Namer</settlementNameMaker>
+    <backstoryCategories>
+      <li>Outlander</li>
+    </backstoryCategories>
+    <geneticVariance>0.8</geneticVariance>
+    <hairTags>
+      <li>Rural</li>
+      <li>Urban</li>
+    </hairTags>
+    <caravanTraderKinds>
+      <li>GWBGenericTrader_CombatSupplier</li>
+      <li>GWBGeneric_PirateMerchant</li>
+    </caravanTraderKinds>
+    <visitorTraderKinds>
+      <li>GWBGenericTrader_Visitor</li>
+    </visitorTraderKinds>
+    <baseTraderKinds>
+      <li>GWBGenericTrader_Base</li>
+    </baseTraderKinds>
+    <allowedArrivalTemperatureRange>
+      <min>-40</min>
+      <max>45</max>
+    </allowedArrivalTemperatureRange>
+    <maxPawnCostPerTotalPointsCurve>
+      <points>
+        <li>(0,35)</li>
+        <li>(70, 50)</li>
+        <li>(700, 100)</li>
+        <li>(1300, 150)</li>
+        <li>(100000, 10000)</li>
+      </points>
+    </maxPawnCostPerTotalPointsCurve>
+    <pawnGroupMakers>
+      <li>
+        <!-- Normal fights, standard mix -->
+        <kindDef>Combat</kindDef>
+        <commonality>100</commonality>
+        <options>
+          <GWBYellowArmy_Pvt>70</GWBYellowArmy_Pvt>
+          <GWBYellowArmy_Cpl>5</GWBYellowArmy_Cpl>
+          <GWBYellowArmy_Sgt>70</GWBYellowArmy_Sgt>
+          <GWBYellowArmy_StaffSgt>70</GWBYellowArmy_StaffSgt>
+          <GWBYellowArmy_Flamer>70</GWBYellowArmy_Flamer>
+          <GWBYellowArmy_Sniper>100</GWBYellowArmy_Sniper>
+          <GWBYellowArmy_Boss>100</GWBYellowArmy_Boss>
+        </options>
+      </li>
+      <li>
+        <kindDef>Peaceful</kindDef>
+        <commonality>100</commonality>
+        <options>
+          <GWBYellowArmy_Pvt>70</GWBYellowArmy_Pvt>
+          <GWBYellowArmy_Cpl>5</GWBYellowArmy_Cpl>
+          <GWBYellowArmy_Sgt>70</GWBYellowArmy_Sgt>
+          <GWBYellowArmy_StaffSgt>70</GWBYellowArmy_StaffSgt>
+          <GWBYellowArmy_Flamer>70</GWBYellowArmy_Flamer>
+          <GWBYellowArmy_Sniper>100</GWBYellowArmy_Sniper>
+          <GWBYellowArmy_Boss>1</GWBYellowArmy_Boss>
+        </options>
+      </li>
+      <li>
+        <!-- TRADER -->
+        <kindDef>Trader</kindDef>
+        <traders>
+          <GWBYellowArmy_Trader>1</GWBYellowArmy_Trader>
+        </traders>
+        <carriers>
+          <Muffalo>6</Muffalo>
+          <Dromedary>5</Dromedary>
+          <Alpaca>2</Alpaca>
+        </carriers>
+        <guards>
+          <GWBYellowArmy_Sgt>20</GWBYellowArmy_Sgt>
+          <GWBYellowArmy_StaffSgt>20</GWBYellowArmy_StaffSgt>
+          <GWBYellowArmy_Cpl>20</GWBYellowArmy_Cpl>
+          <GWBYellowArmy_Flamer>80</GWBYellowArmy_Flamer>
+        </guards>
+      </li>
+      <li>
+        <!-- Base defense -->
+        <kindDef>Settlement</kindDef>
+        <options>
+          <GWBYellowArmy_Cpl>5</GWBYellowArmy_Cpl>
+          <GWBYellowArmy_Sgt>20</GWBYellowArmy_Sgt>
+          <GWBYellowArmy_StaffSgt>70</GWBYellowArmy_StaffSgt>
+          <GWBYellowArmy_Flamer>70</GWBYellowArmy_Flamer>
+          <GWBYellowArmy_Sniper>90</GWBYellowArmy_Sniper>
+          <GWBYellowArmy_Boss>50</GWBYellowArmy_Boss>
+        </options>
+      </li>
+    </pawnGroupMakers>
+  </FactionDef>
+  <FactionDef ParentName="RW_FactionBase_Yellowarmy">
+    <defName>GWBYellowArmy</defName>
+    <label>Yellow soldiers</label>
+    <description>The Yellow Army is one of the three remaining factions contesting control of "The City". 
+	
+Not much is known about the Yellows, their homeland, ethnicity, and motives are all a complete mystery.</description>
+    <colorSpectrum>
+      <li>(255, 255, 0)</li>
+    </colorSpectrum>
+    <startingGoodwill>
+      <min>-90</min>
+      <max>-70</max>
+    </startingGoodwill>
+    <naturalColonyGoodwill>
+      <min>-90</min>
+      <max>-70</max>
+    </naturalColonyGoodwill>
+  </FactionDef>
+</Defs>
