@@ -6,6 +6,7 @@
     <listOrderPriority>3</listOrderPriority>
     <settlementGenerationWeight>0.75</settlementGenerationWeight>
     <requiredCountAtGameStart>1</requiredCountAtGameStart>
+    <maxConfigurableAtWorldCreation>1</maxConfigurableAtWorldCreation>
     <canMakeRandomly>true</canMakeRandomly>
     <canSiege>true</canSiege>
     <autoFlee>true</autoFlee>

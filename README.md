@@ -20,7 +20,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1342263292
 ![Image](https://i.imgur.com/NOW7jU1.png)
 
 
-The mod is based on the comic &quot;Gone with the blastwave&quot;.
+The mod is based on the comic &amp;quot;Gone with the blastwave&amp;quot;.
 http://www.blastwave-comic.com/index.php?p=comicandnro=1
 
 
@@ -28,7 +28,7 @@ This mod adds the Red Army, Blue Army, Yellow Army, and their weapons into Rimwo
 
 The uniforms: Provides some armour and a little bit of heat insolation
 The helmets: Provides armour and toxic fallout protection
- (Yellow&apos;s gear is more powerful)
+ (Yellow&amp;apos;s gear is more powerful)
 
 Wasteland Rifle: Box standard survival weapon used by the Reds and the Blues.
 Wireframe Wasteland Rifle: The standard rifle, but with a wireframe stock. Has a accuracy and range penalty.
@@ -86,6 +86,7 @@ A big thanks to DARK for the art for the guns.
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
+
 
 
 
