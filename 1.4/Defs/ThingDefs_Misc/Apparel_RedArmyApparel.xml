@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- ===============Onskin============== -->
+  <!-- Red outfit-->
+  <ThingDef ParentName="ApparelMakeableBase">
+    <defName>Apparel_RimwaveRedCoat</defName>
+    <label>red army uniform</label>
+    <description>The Red Army uniform consists of a trench coat, boots, helmet, gloves, and a gas mask with a hose connected to a tank on the lower back.The coat is zipped down to the belt and has red patches on the soldiers and wrists along with a red trim around the bottom near the feet.</description>
+    <graphicData>
+      <texPath>Things/Apparel/RedArmy_Clothes/RimwaveRedCoat</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+    </graphicData>
+    <recipeMaker>
+      <researchPrerequisite>ComplexClothing</researchPrerequisite>
+    </recipeMaker>
+    <costStuffCount>150</costStuffCount>
+    <stuffCategories>
+      <li>Fabric</li>
+    </stuffCategories>
+    <thingCategories>
+      <li>Apparel</li>
+    </thingCategories>
+    <statBases>
+      <WorkToMake>4000</WorkToMake>
+      <MaxHitPoints>200</MaxHitPoints>
+      <Mass>4</Mass>
+      <Flammability>0.6</Flammability>
+      <ArmorRating_Sharp>0.36</ArmorRating_Sharp>
+      <ArmorRating_Blunt>0.36</ArmorRating_Blunt>
+      <ArmorRating_Heat>0.27</ArmorRating_Heat>
+      <Insulation_Cold>1</Insulation_Cold>
+      <EquipDelay>5</EquipDelay>
+    </statBases>
+    <generateCommonality>0.3</generateCommonality>
+    <apparel>
+      <bodyPartGroups>
+        <li>Torso</li>
+        <li>Shoulders</li>
+        <li>Arms</li>
+        <li>Waist</li>
+        <li>Legs</li>
+      </bodyPartGroups>
+      <wornGraphicPath>Things/Apparel/RedArmy_Clothes/RimwaveRedCoat</wornGraphicPath>
+      <layers>
+        <li>OnSkin</li>
+      </layers>
+      <tags>
+        <!--<li>Outlander</li>
+		<li>Military</li>-->
+        <li>RedArmy_Uniform</li>
+      </tags>
+    </apparel>
+    <colorGenerator Class="ColorGenerator_StandardApparel" />
+    <equippedStatOffsets>
+      <MoveSpeed>0.1</MoveSpeed>
+    </equippedStatOffsets>
+  </ThingDef>
+  <ThingDef ParentName="ApparelMakeableBase">
+    <defName>Apparel_RimwaveFlamerpack</defName>
+    <label> flamer fuel tanks</label>
+    <description>The tanks hold a flamable fuel to be used with the flamethrowers wielded by the three armys.</description>
+    <techLevel>Industrial</techLevel>
+    <recipeMaker>
+      <unfinishedThingDef>UnfinishedBelt</unfinishedThingDef>
+      <researchPrerequisite>ComplexClothing</researchPrerequisite>
+      <recipeUsers>
+        <li>TableMachining</li>
+      </recipeUsers>
+      <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+      <workSkill>Crafting</workSkill>
+      <effectWorking>Smith</effectWorking>
+      <soundWorking>Recipe_Smith</soundWorking>
+      <skillRequirements>
+        <Crafting>5</Crafting>
+      </skillRequirements>
+    </recipeMaker>
+    <costList>
+      <ComponentIndustrial>1</ComponentIndustrial>
+      <Steel>20</Steel>
+      <Chemfuel>100</Chemfuel>
+    </costList>
+    <graphicData>
+      <texPath>Things/Apparel/RedArmy_Clothes/RimwaveFlamer</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+    </graphicData>
+    <tickerType>Normal</tickerType>
+    <statBases>
+      <MaxHitPoints>100</MaxHitPoints>
+      <WorkToMake>1800</WorkToMake>
+      <Mass>0.8</Mass>
+      <StuffEffectMultiplierInsulation_Heat>0.7</StuffEffectMultiplierInsulation_Heat>
+      <Flammability>0.9</Flammability>
+      <EquipDelay>5</EquipDelay>
+    </statBases>
+    <thingCategories>
+      <li>Apparel</li>
+    </thingCategories>
+    <generateAllowChance>0.01</generateAllowChance>
+    <apparel>
+      <careIfWornByCorpse>false</careIfWornByCorpse>
+      <bodyPartGroups>
+        <li>Waist</li>
+        <li>Torso</li>
+      </bodyPartGroups>
+      <wornGraphicPath>Things/Apparel/RedArmy_Clothes/RimwaveFlamer</wornGraphicPath>
+      <layers>
+        <li>Belt</li>
+      </layers>
+      <tags>
+        <li>GWB_Flamer</li>
+      </tags>
+    </apparel>
+    <colorGenerator Class="ColorGenerator_StandardApparel" />
+  </ThingDef>
+</Defs>

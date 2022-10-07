@@ -1,34 +1,25 @@
 # GonewiththeRimwave
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/buuPQel.png)
 
 Update of Fierydrakens mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1342263292
 
-![Image](https://i.imgur.com/7Gzt3Rg.png)
+![Image](https://i.imgur.com/pufA0kM.png)
 
-
-[table]
-	[tr]
-		[td]https://invite.gg/Mlie]![Image](https://i.imgur.com/zdzzBrc.png)
-[/td]
-		[td]https://github.com/emipa606/GonewiththeRimwave]![Image](https://i.imgur.com/kTkpTOE.png)
-[/td]
-	[/tr]
-[/table]
 	
-![Image](https://i.imgur.com/NOW7jU1.png)
+![Image](https://i.imgur.com/Z4GOv8H.png)
 
 
-The mod is based on the comic &amp;quot;Gone with the blastwave&amp;quot;.
-http://www.blastwave-comic.com/index.php?p=comicandnro=1
+The mod is based on the comic "Gone with the blastwave".
+http://www.blastwave-comic.com/index.php?p=comic&nro=1
 
 
 This mod adds the Red Army, Blue Army, Yellow Army, and their weapons into Rimworld.
 
 The uniforms: Provides some armour and a little bit of heat insolation
 The helmets: Provides armour and toxic fallout protection
- (Yellow&amp;apos;s gear is more powerful)
+(Yellow's gear is more powerful)
 
 Wasteland Rifle: Box standard survival weapon used by the Reds and the Blues.
 Wireframe Wasteland Rifle: The standard rifle, but with a wireframe stock. Has a accuracy and range penalty.
@@ -37,18 +28,18 @@ Wasteland LMG: A heavy gun used by the Reds and the Blues.
 Wasteland Flamer: Its a flamethrower, what more could you want? (May be OP)
 
 
-                                 Q/A
+Q/A
 Q: What about the greens, I am angry and upset you have not added them!
-A: The greens got too close to a centipede and have died. I have added their uniforms and helmets. 
+A: The greens got too close to a centipede and have died. I have added their uniforms and helmets.
 
 Q: Will you add the 250k and/or Legends versions?
-A: currently I have no plans to. 
+A: currently I have no plans to.
 
 Q: Will you add other non lore friendly armys?
-A: Nope. 
+A: Nope.
 
 Q: Can I craft these items?
-A: You can craft all of the items at their appropriate benches. 
+A: You can craft all of the items at their appropriate benches.
 
 
 ███████████████████████████
@@ -75,8 +66,7 @@ A: You can craft all of the items at their appropriate benches.
 This is my first mod and would not have been possible without my prolific poultry protege, Chicken Plucker. He is seriously just about the coolist and most helpful person I have met online.
 A big thanks to DARK for the art for the guns.
 
-
-![Image](https://i.imgur.com/Rs6T6cr.png)
+![Image](https://i.imgur.com/PwoNOj4.png)
 
 
 
