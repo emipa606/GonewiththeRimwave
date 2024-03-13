@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <RulePackDef>
+    <defName>GWBFactionBase_Namer</defName>
+    <rulePack>
+      <rulesStrings>
+        <li>name-&gt;Outpost [RN_Letters]</li>
+        <li>name-&gt;Warzone [RN_Letters]</li>
+        <li>name-&gt;FOB [RN_Letters]</li>
+        <li>name-&gt;Sector [RN_Letters]</li>
+        <li>name-&gt;Outpost [Names_RNTwentyNumbers]</li>
+        <li>name-&gt;Warzone [Names_RNTwentyNumbers]</li>
+        <li>name-&gt;Forward Camp [Names_RNTwentyNumbers]</li>
+        <li>name-&gt;Sector [Names_RNTwentyNumbers]</li>
+      </rulesStrings>
+      <rulesRaw>
+        <li Class="Rule_File">
+          <keyword>RN_Letters</keyword>
+          <path>NameBanks/Names_RNLetters</path>
+        </li>
+        <li Class="Rule_File">
+          <keyword>Names_RNTwentyNumbers</keyword>
+          <path>NameBanks/Names_RNTwentyNumbers</path>
+        </li>
+      </rulesRaw>
+    </rulePack>
+  </RulePackDef>
+</Defs>
