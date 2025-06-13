@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: wasteland rifle bullet -->
+  <Bullet_GWBWastelandLMG.label>wasteland rifle bullet</Bullet_GWBWastelandLMG.label>
+  <!-- EN: wasteland LMG -->
+  <Gun_GWBWastelandLMG.label>wasteland LMG</Gun_GWBWastelandLMG.label>
+  <!-- EN: The LMG is a heavy weapon carried by soldiers to lay down suppression and support their allies. It is also used to cut people in half with bullets. -->
+  <Gun_GWBWastelandLMG.description>The LMG is a heavy weapon carried by soldiers to lay down suppression and support their allies. It is also used to cut people in half with bullets.</Gun_GWBWastelandLMG.description>
+  <!-- EN: stock -->
+  <Gun_GWBWastelandLMG.tools.stock.label>stock</Gun_GWBWastelandLMG.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_GWBWastelandLMG.tools.barrel.label>barrel</Gun_GWBWastelandLMG.tools.barrel.label>
+  <!-- EN: wasteland LMG -->
+  <Gun_GWBWastelandLMG.verbs.Verb_Shoot.label>wasteland LMG</Gun_GWBWastelandLMG.verbs.Verb_Shoot.label>
+</LanguageData>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN:  flamer fuel tanks -->
+  <Apparel_RimwaveFlamerpack.label> flamer fuel tanks</Apparel_RimwaveFlamerpack.label>
+  <!-- EN: The tanks hold a flamable fuel to be used with the flamethrowers wielded by the three armys. -->
+  <Apparel_RimwaveFlamerpack.description>The tanks hold a flamable fuel to be used with the flamethrowers wielded by the three armys.</Apparel_RimwaveFlamerpack.description>
+  <!-- EN: red army uniform -->
+  <Apparel_RimwaveRedCoat.label>red army uniform</Apparel_RimwaveRedCoat.label>
+  <!-- EN: The Red Army uniform consists of a trench coat, boots, helmet, gloves, and a gas mask with a hose connected to a tank on the lower back.The coat is zipped down to the belt and has red patches on the soldiers and wrists along with a red trim around the bottom near the feet. -->
+  <Apparel_RimwaveRedCoat.description>The Red Army uniform consists of a trench coat, boots, helmet, gloves, and a gas mask with a hose connected to a tank on the lower back.The coat is zipped down to the belt and has red patches on the soldiers and wrists along with a red trim around the bottom near the feet.</Apparel_RimwaveRedCoat.description>
+</LanguageData>

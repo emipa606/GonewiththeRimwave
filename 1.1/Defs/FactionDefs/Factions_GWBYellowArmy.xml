@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <FactionDef ParentName="RW_HumanFactionBase" Name="RW_FactionBase_Yellowarmy" Abstract="True">
     <pawnSingular>Yellow Soldier</pawnSingular>

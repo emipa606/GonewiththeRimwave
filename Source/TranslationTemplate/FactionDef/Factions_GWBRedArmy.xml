@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: red soldiers -->
+  <GWBRedArmy.label>red soldiers</GWBRedArmy.label>
+  <!-- EN: The Red Army is one of the three remaining factions contesting control of "The City". \n	\nNot much is known about the Reds, their homeland, ethnicity, and motives are all a complete mystery. -->
+  <GWBRedArmy.description>The Red Army is one of the three remaining factions contesting control of "The City". 
+	
+Not much is known about the Reds, their homeland, ethnicity, and motives are all a complete mystery.</GWBRedArmy.description>
+  <!-- EN: The Red Army -->
+  <GWBRedArmy.fixedName>The Red Army</GWBRedArmy.fixedName>
+  <!-- EN: General -->
+  <GWBRedArmy.leaderTitle>General</GWBRedArmy.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <GWBRedArmy.messageDefendersAttacking>{0} from {1} are attacking your {2}.</GWBRedArmy.messageDefendersAttacking>
+  <!-- EN: Red Soldier -->
+  <GWBRedArmy.pawnSingular>Red Soldier</GWBRedArmy.pawnSingular>
+  <!-- EN: Red Soldiers -->
+  <GWBRedArmy.pawnsPlural>Red Soldiers</GWBRedArmy.pawnsPlural>
+</LanguageData>

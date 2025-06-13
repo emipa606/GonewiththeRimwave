@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: General -->
+  <GWBYellowArmy_Boss.label>General</GWBYellowArmy_Boss.label>
+  <!-- EN: Corporal -->
+  <GWBYellowArmy_Cpl.label>Corporal</GWBYellowArmy_Cpl.label>
+  <!-- EN: Flamer -->
+  <GWBYellowArmy_Flamer.label>Flamer</GWBYellowArmy_Flamer.label>
+  <!-- EN: private -->
+  <GWBYellowArmy_Pvt.label>private</GWBYellowArmy_Pvt.label>
+  <!-- EN: Sergeant -->
+  <GWBYellowArmy_Sgt.label>Sergeant</GWBYellowArmy_Sgt.label>
+  <!-- EN: Sniper -->
+  <GWBYellowArmy_Sniper.label>Sniper</GWBYellowArmy_Sniper.label>
+  <!-- EN: Staff Sergeant -->
+  <GWBYellowArmy_StaffSgt.label>Staff Sergeant</GWBYellowArmy_StaffSgt.label>
+  <!-- EN: trader -->
+  <GWBYellowArmy_Trader.label>trader</GWBYellowArmy_Trader.label>
+</LanguageData>

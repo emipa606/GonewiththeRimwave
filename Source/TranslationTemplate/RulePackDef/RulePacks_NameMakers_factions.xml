@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN:
+    <li>name->Outpost [RN_Letters]</li>
+    <li>name->Warzone [RN_Letters]</li>
+    <li>name->FOB [RN_Letters]</li>
+    <li>name->Sector [RN_Letters]</li>
+    <li>name->Outpost [Names_RNTwentyNumbers]</li>
+    <li>name->Warzone [Names_RNTwentyNumbers]</li>
+    <li>name->Forward Camp [Names_RNTwentyNumbers]</li>
+    <li>name->Sector [Names_RNTwentyNumbers]</li>
+  -->
+  <GWBFactionBase_Namer.rulePack.rulesStrings>
+    <li>name->Outpost [RN_Letters]</li>
+    <li>name->Warzone [RN_Letters]</li>
+    <li>name->FOB [RN_Letters]</li>
+    <li>name->Sector [RN_Letters]</li>
+    <li>name->Outpost [Names_RNTwentyNumbers]</li>
+    <li>name->Warzone [Names_RNTwentyNumbers]</li>
+    <li>name->Forward Camp [Names_RNTwentyNumbers]</li>
+    <li>name->Sector [Names_RNTwentyNumbers]</li>
+  </GWBFactionBase_Namer.rulePack.rulesStrings>
+</LanguageData>

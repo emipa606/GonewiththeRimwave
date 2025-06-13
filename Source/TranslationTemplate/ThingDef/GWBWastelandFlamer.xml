@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: GWBFlame -->
+  <Bullet_GWBFlame.label>GWBFlame</Bullet_GWBFlame.label>
+  <!-- EN: Wasteland Flamer -->
+  <Gun_GWBWastelandFlamer.label>Wasteland Flamer</Gun_GWBWastelandFlamer.label>
+  <!-- EN: The Flamer is a brutal weapon carried by those who have truly lost their minds in the wasteland. -->
+  <Gun_GWBWastelandFlamer.description>The Flamer is a brutal weapon carried by those who have truly lost their minds in the wasteland.</Gun_GWBWastelandFlamer.description>
+  <!-- EN: stock -->
+  <Gun_GWBWastelandFlamer.tools.stock.label>stock</Gun_GWBWastelandFlamer.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_GWBWastelandFlamer.tools.barrel.label>barrel</Gun_GWBWastelandFlamer.tools.barrel.label>
+  <!-- EN: Wasteland Flamer -->
+  <Gun_GWBWastelandFlamer.verbs.Verb_Shoot.label>Wasteland Flamer</Gun_GWBWastelandFlamer.verbs.Verb_Shoot.label>
+</LanguageData>

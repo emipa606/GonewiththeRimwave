@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: General -->
+  <GWBBlueArmy_Boss.label>General</GWBBlueArmy_Boss.label>
+  <!-- EN: Corporal -->
+  <GWBBlueArmy_Cpl.label>Corporal</GWBBlueArmy_Cpl.label>
+  <!-- EN: Flamer -->
+  <GWBBlueArmy_Flamer.label>Flamer</GWBBlueArmy_Flamer.label>
+  <!-- EN: private -->
+  <GWBBlueArmy_Pvt.label>private</GWBBlueArmy_Pvt.label>
+  <!-- EN: Sergeant -->
+  <GWBBlueArmy_Sgt.label>Sergeant</GWBBlueArmy_Sgt.label>
+  <!-- EN: Sniper -->
+  <GWBBlueArmy_Sniper.label>Sniper</GWBBlueArmy_Sniper.label>
+  <!-- EN: Staff Sergeant -->
+  <GWBBlueArmy_StaffSgt.label>Staff Sergeant</GWBBlueArmy_StaffSgt.label>
+  <!-- EN: trader -->
+  <GWBBlueArmy_Trader.label>trader</GWBBlueArmy_Trader.label>
+</LanguageData>

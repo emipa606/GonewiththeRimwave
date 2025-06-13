@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Yellow soldiers -->
+  <GWBYellowArmy.label>Yellow soldiers</GWBYellowArmy.label>
+  <!-- EN: The Yellow Army is one of the three remaining factions contesting control of "The City". \n	\nNot much is known about the Yellows, their homeland, ethnicity, and motives are all a complete mystery. -->
+  <GWBYellowArmy.description>The Yellow Army is one of the three remaining factions contesting control of "The City". 
+	
+Not much is known about the Yellows, their homeland, ethnicity, and motives are all a complete mystery.</GWBYellowArmy.description>
+  <!-- EN: The Yellow Army -->
+  <GWBYellowArmy.fixedName>The Yellow Army</GWBYellowArmy.fixedName>
+  <!-- EN: General -->
+  <GWBYellowArmy.leaderTitle>General</GWBYellowArmy.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <GWBYellowArmy.messageDefendersAttacking>{0} from {1} are attacking your {2}.</GWBYellowArmy.messageDefendersAttacking>
+  <!-- EN: Yellow Soldier -->
+  <GWBYellowArmy.pawnSingular>Yellow Soldier</GWBYellowArmy.pawnSingular>
+  <!-- EN: Yellow Soldiers -->
+  <GWBYellowArmy.pawnsPlural>Yellow Soldiers</GWBYellowArmy.pawnsPlural>
+</LanguageData>
