@@ -1,0 +1,129 @@
+ManifestFileVersion: 0
+CRC: 287176682
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 621d2e2b7c4b6b4e4ad695be01ae739e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ce3b6d18a872ca8039cd5eb3c4fb7ef5
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 621d2e2b7c4b6b4e4ad695be01ae739e
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/GreenArmy_Clothes/RimwaveGreenCoat_Fat_south.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/YellowArmy_Clothes/RimwaveYellowHelmet_south.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/GreenArmy_Clothes/RimwaveGreenCoat_Female_north.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/RedArmy_Clothes/RimwaveFlamer_Thin_south.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/BlueArmy_Clothes/RimwaveBlueCoat_Thin_south.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/BlueArmy_Clothes/RimwaveBlueCoat.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/YellowArmy_Clothes/RimwaveYellowCoat_Hulk_north.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/GreenArmy_Clothes/RimwaveGreenCoat_Hulk_south.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/RedArmy_Clothes/RimwaveFlamer_Fat_east.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/BlueArmy_Clothes/RimwaveBlueHelmet.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/BlueArmy_Clothes/RimwaveBlueHelmet_south.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/RedArmy_Clothes/RimwaveFlamer.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/RedArmy_Clothes/RimwaveRedCoat_Male_east.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/RedArmy_Clothes/RimwaveRedCoat_Thin_east.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/GreenArmy_Clothes/RimwaveGreenCoat_Male_east.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/YellowArmy_Clothes/RimwaveYellowCoat_Fat_east.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/BlueArmy_Clothes/RimwaveBlueCoat_Hulk_north.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/YellowArmy_Clothes/RimwaveYellowCoat_Female_east.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/RedArmy_Clothes/RimwaveRedCoat_Female_south.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/RedArmy_Clothes/RimwaveRedCoat_Thin_south.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/BlueArmy_Clothes/RimwaveBlueCoat_Female_north.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/GreenArmy_Clothes/RimwaveGreenCoat_Thin_east.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/GreenArmy_Clothes/RimwaveGreenCoat_Male_north.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Weapons/WastelandRifle/WastelandRifle.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/RedArmy_Clothes/RimwaveFlamer_Male_east.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/BlueArmy_Clothes/RimwaveBlueCoat_Thin_east.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/YellowArmy_Clothes/RimwaveYellowCoat_Female_south.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/GreenArmy_Clothes/RimwaveGreenCoat_Fat_east.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/RedArmy_Clothes/RimwaveFlamer_Female_south.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/RedArmy_Clothes/RimwaveFlamer_Fat_south.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/YellowArmy_Clothes/RimwaveYellowCoat_Male_east.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/RedArmy_Clothes/RimwaveRedHelmet_east.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/RedArmy_Clothes/RimwaveRedCoat_Fat_east.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/RedArmy_Clothes/RimwaveRedHelmet_south.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Weapons/WastelandLMG/WastelandLMG.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/YellowArmy_Clothes/RimwaveYellowCoat_Male_north.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/GreenArmy_Clothes/RimwaveGreenHelmet_north.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/GreenArmy_Clothes/RimwaveGreenCoat_Male_south.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/BlueArmy_Clothes/RimwaveBlueCoat_Male_north.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/YellowArmy_Clothes/RimwaveYellowCoat_Thin_south.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/BlueArmy_Clothes/RimwaveBlueCoat_Fat_east.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/RedArmy_Clothes/RimwaveRedCoat_Hulk_south.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/GreenArmy_Clothes/RimwaveGreenCoat_Hulk_east.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/RedArmy_Clothes/RimwaveRedHelmet_north.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/BlueArmy_Clothes/RimwaveBlueCoat_Male_south.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/YellowArmy_Clothes/RimwaveYellowCoat_Fat_north.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/BlueArmy_Clothes/RimwaveBlueCoat_Hulk_south.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/RedArmy_Clothes/RimwaveFlamer_Male_south.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/YellowArmy_Clothes/RimwaveYellowHelmet_north.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Weapons/WastelandRifle/AdvancedWastelandRifle.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/BlueArmy_Clothes/RimwaveBlueCoat_Fat_south.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/RedArmy_Clothes/RimwaveRedCoat_Female_east.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/World/YellowArmyLogo.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/GreenArmy_Clothes/RimwaveGreenCoat_Thin_south.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/YellowArmy_Clothes/RimwaveYellowCoat_Hulk_east.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/GreenArmy_Clothes/RimwaveGreenHelmet_south.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/BlueArmy_Clothes/RimwaveBlueHelmet_east.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/RedArmy_Clothes/RimwaveFlamer_Hulk_south.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/BlueArmy_Clothes/RimwaveBlueCoat_Female_south.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/GreenArmy_Clothes/RimwaveGreenCoat_Thin_north.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/RedArmy_Clothes/RimwaveRedCoat_Male_south.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/YellowArmy_Clothes/RimwaveYellowCoat_Female_north.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Weapons/WastelandRifle/WireframeWastelandRifle.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/GreenArmy_Clothes/RimwaveGreenCoat_Female_east.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/RedArmy_Clothes/RimwaveRedCoat_Thin_north.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Projectile/GWBWastelandFlame.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/GreenArmy_Clothes/RimwaveGreenCoat_Female_south.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/RedArmy_Clothes/RimwaveFlamer_Female_north.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/GreenArmy_Clothes/RimwaveGreenCoat_Hulk_north.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/RedArmy_Clothes/RimwaveRedCoat.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/World/RedArmyLogo.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/YellowArmy_Clothes/RimwaveYellowCoat_Male_south.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/RedArmy_Clothes/RimwaveFlamer_Thin_east.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/RedArmy_Clothes/RimwaveFlamer_Female_east.png
+- Assets/Data/Mlie.GonewiththeRimwave/Sounds/Flamer/GWBFlamerShot.ogg
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/BlueArmy_Clothes/RimwaveBlueCoat_Male_east.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/GreenArmy_Clothes/RimwaveGreenHelmet_east.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/YellowArmy_Clothes/RimwaveYellowCoat_Hulk_south.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/BlueArmy_Clothes/RimwaveBlueCoat_Hulk_east.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Weapons/WastelandRocketLauncher/WastelandRocketLauncher.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/RedArmy_Clothes/RimwaveFlamer_Hulk_east.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/YellowArmy_Clothes/RimwaveYellowHelmet_east.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/World/BlueArmyLogo.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/RedArmy_Clothes/RimwaveRedCoat_Hulk_east.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/RedArmy_Clothes/RimwaveFlamer_Thin_north.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/YellowArmy_Clothes/RimwaveYellowCoat.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/RedArmy_Clothes/RimwaveFlamer_Hulk_north.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/YellowArmy_Clothes/RimwaveYellowHelmet.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/RedArmy_Clothes/RimwaveFlamer_Male_north.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/GreenArmy_Clothes/RimwaveGreenCoat_Fat_north.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/BlueArmy_Clothes/RimwaveBlueCoat_Female_east.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/RedArmy_Clothes/RimwaveRedCoat_Fat_north.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Weapons/WastelandFlamer/WastelandFlamer.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/GreenArmy_Clothes/RimwaveGreenHelmet.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/RedArmy_Clothes/RimwaveRedCoat_Male_north.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/BlueArmy_Clothes/RimwaveBlueHelmet_north.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/RedArmy_Clothes/RimwaveRedHelmet.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/YellowArmy_Clothes/RimwaveYellowCoat_Thin_east.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/BlueArmy_Clothes/RimwaveBlueCoat_Fat_north.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/RedArmy_Clothes/RimwaveRedCoat_Female_north.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/RedArmy_Clothes/RimwaveRedCoat_Hulk_north.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/RedArmy_Clothes/RimwaveRedCoat_Fat_south.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/YellowArmy_Clothes/RimwaveYellowCoat_Fat_south.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/GreenArmy_Clothes/RimwaveGreenCoat.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/BlueArmy_Clothes/RimwaveBlueCoat_Thin_north.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/RedArmy_Clothes/RimwaveFlamer_Fat_north.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Weapons/WastelandSniper/WastelandSniper.png
+- Assets/Data/Mlie.GonewiththeRimwave/Textures/Things/Apparel/YellowArmy_Clothes/RimwaveYellowCoat_Thin_north.png
+Dependencies: []
